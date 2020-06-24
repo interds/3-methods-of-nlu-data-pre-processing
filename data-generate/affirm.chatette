@@ -1,0 +1,19 @@
+~[yes]
+  yes
+  indeed
+  of course
+  that sounds good
+  correct
+  got it
+  alright
+  sure
+  ok
+
+
+~[thanks]
+    thanks
+    thank you 
+
+%[affirm](training:100)
+    ~[yes]
+    ~[yes][,?] ~[thanks]
