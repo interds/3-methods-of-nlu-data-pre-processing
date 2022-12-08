@@ -10,7 +10,7 @@ backcall==0.2.0
 boto3==1.14.9
 botocore==1.17.9
 cachetools==4.1.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chatette==1.6.2
